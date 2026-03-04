@@ -1,0 +1,12 @@
+---
+title: "CTA L Ridership vs. Crime: A Station-Level Analysis"
+author: "Khulan B., Kunsh K.| GitHub: khulanb01, Kunsh1312 | Lecture: [Day/Time]"
+date: "March 2026"
+format:
+  html:
+    self-contained: true
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+---
+

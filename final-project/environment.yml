@@ -1,0 +1,14 @@
+name: ctacrime
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - geopandas
+  - shapely
+  - scipy
+  - altair
+  - pydeck
+  - streamlit
+  - seaborn
+  - matplotlib

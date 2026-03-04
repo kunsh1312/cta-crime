@@ -1,0 +1,8 @@
+pandas
+geopandas
+altair
+pydeck
+matplotlib
+seaborn
+requests
+io
